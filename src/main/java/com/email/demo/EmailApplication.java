@@ -29,7 +29,7 @@ public class EmailApplication implements ApplicationRunner {
 	}
 
 	public void run(ApplicationArguments args) throws Exception {
-		log.info("START... Sending email");
+//		log.info("START... Sending email");
 		Mail mail = new Mail();
 		mail.setFrom("customersupport@theosm.co.in");
 		mail.setMailTo("sreekumars@theosm.co.in");
