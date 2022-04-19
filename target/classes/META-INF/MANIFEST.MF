@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: srees
+Build-Jdk: 11.0.5
+Implementation-Title: SendEmailMessage
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.email
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/emailSender
+Created-By: Maven Integration for Eclipse
+
